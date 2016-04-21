@@ -33,6 +33,9 @@ Plugin 'tpope/vim-fugitive'
 Plugin 'joshdick/onedark.vim'
 Plugin 'joshdick/airline-onedark.vim'
 
+" Better defaults
+Plugin 'tpope/vim-sensible'
+
 
 call vundle#end()
 filetype plugin indent on
